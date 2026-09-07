@@ -14,11 +14,11 @@ Hi! I'm **Ujjwal Kumar**, an aspiring Software Developer passionate about buildi
 
 ### 🛠️ Technologies & Tools
 
-**Languages:** Java, JavaScript, HTML, CSS
-**Backend & Frameworks:** Node.js, Express.js, Hibernate
-**Database & Connectivity:** JDBC, SQL
-**Core Skills:** Data Structures & Algorithms, OOP, Problem Solving
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Eclipse
+**Languages:** Java, JavaScript, HTML, CSS  
+**Backend & Frameworks:** Node.js, Express.js, Hibernate  
+**Database & Connectivity:** JDBC, SQL  
+**Core Skills:** Data Structures & Algorithms, OOP, Problem Solving  
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Eclipse  
 
 ### 📌 Currently
 
